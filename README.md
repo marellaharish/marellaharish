@@ -6,7 +6,7 @@ I love turning ideas into beautiful, responsive, and performant web and mobile a
 
 I enjoy integrating **AI** into modern apps, and I'm always learning new tools to make development smoother and faster.
 
---
+---
 ### ⚡ Fun Facts
 - I enjoy experimenting with new UI ideas.
 - Always ready to help other developers grow.
