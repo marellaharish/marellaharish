@@ -40,7 +40,7 @@ I enjoy integrating **AI** into modern apps, and I'm always learning new tools t
 
 ### 📫 Let’s Connect!
 - 💼 [GitHub](https://github.com/marellaharish) 
-- 🎨 [Instagram]() *(add link)*
+- 🎨 [Instagram]
 - 💬 Open to freelance & collaboration opportunities
 
 ---
